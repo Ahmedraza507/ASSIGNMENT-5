@@ -26,9 +26,9 @@ def car_details_match(max_car_stock, min_car_stock, car_price, car_name, car_mod
 
 
 def email_sending(match_car_details) :
-    sender_email = "muhammadahmedraza987@gmail.com"
-    sender_password = "bppt gjqf yiqk ptxk"
-    company_email = "ahmedofficial346@gmail.com"
+    sender_email = "sender@gmail.com"
+    sender_password = "xxxx xxxx xxxx xxxx"
+    company_email = "company@gmail.com"
     subject = f" CAR SHOWROOM "
     body = f""" 
             CAR DETAILS : {match_car_details}
